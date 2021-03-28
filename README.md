@@ -1,1 +1,3 @@
 # OrnekRepo
+
+değişiklik yaptım
